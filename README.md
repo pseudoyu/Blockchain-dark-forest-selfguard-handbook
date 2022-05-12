@@ -4,8 +4,11 @@ Blockchain dark forest selfguard handbook<br>
 Author: 余弦@慢雾安全团队<br>
 Contact me：Twitter([@evilcos](https://twitter.com/evilcos))、即刻(@余弦.jpg)
 
-Translator: Alphatu | C. | CJ | JZ | Lovepeace | Neethan | pseudoyu | SassyPanda | ss | XL
-Proofreader：SassyPanda | JZ | Neethan | Alphatu | pseudoyu
+Translator: 
+>Alphatu | C. | CJ | JZ | Lovepeace | Neethan | pseudoyu | SassyPanda | ss | XL
+
+Proofreader:
+>SassyPanda | JZ | Neethan | Alphatu | pseudoyu
 
 ![alt this](res/this.png)
 
