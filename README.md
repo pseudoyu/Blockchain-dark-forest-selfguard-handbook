@@ -5,10 +5,10 @@ Author: 余弦@慢雾安全团队<br>
 Contact me：Twitter([@evilcos](https://twitter.com/evilcos))、即刻(@余弦.jpg)
 
 Translator: 
->Alphatu | C. | CJ | JZ | Lovepeace | Neethan | pseudoyu | SassyPanda | ss | XL
+>[Alphatu](https://twitter.com/Alphatu4) | C. | [CJ](https://twitter.com/0xnjars) | [JZ](https://twitter.com/scorpionzhang) | [Lovepeace](https://twitter.com/lovepeace_53) | [Neethan](https://mobile.twitter.com/neethanverse) | [pseudoyu](https://twitter.com/pseudo_yu) | [SassyPanda](https://twitter.com/sassypandacap) | ss | [XL](https://twitter.com/leixing0309)
 
 Proofreader:
->SassyPanda | JZ | Neethan | Alphatu | pseudoyu
+>[SassyPanda](https://twitter.com/sassypandacap) | [JZ](https://twitter.com/scorpionzhang) | [Neethan](https://mobile.twitter.com/neethanverse) | [Alphatu](https://twitter.com/Alphatu4) | [pseudoyu](https://twitter.com/pseudo_yu)
 
 ![alt this](res/this.png)
 
@@ -216,7 +216,7 @@ I will briefly explain each type.
 
 **Multi-Signature**, As the name suggests, it requires signatures from multiple people to access wallets. It’s very flexible as you can set your own rules. For example, if there’re 3 people have the key (mnemonic words or private keys), you can require at least two persons to sign to access the wallets. Each blockchain has its own multi-signature solution. Most well-known Bitcoin wallets support multi-signature. However, in Ethereum, multi-signature is mainly supported through smart contracts, such as Gnosis Safe. Furthermore, MPC, or Secure Multi-Party Computation is becoming more and more popular.. It provides an experience similar to the traditional multi-signature, but with different technology. Unlike multi-signature, MPC is blockchain agnostic and can work with all protocols.
 
-**SSS, Shamir's Secret Sharing**, SSS breaks down the seed into multiple shares (normally, each share contains 20 words). To recover the wallet, a specified number of shares has to be collected and used. For details, refer to the industry best practices below:
+**SSS**, Shamir's Secret Sharing, SSS breaks down the seed into multiple shares (normally, each share contains 20 words). To recover the wallet, a specified number of shares has to be collected and used. For details, refer to the industry best practices below:
 
 >https://support.keyst.one/v/chinese/gao-ji-gong-neng/zhu-ji-ci/chuang-jian-dao-ru-fen-pian-zhu-ji-ci<br>
 >https://wiki.trezor.io/Shamir_backup
